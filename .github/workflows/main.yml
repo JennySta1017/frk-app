@@ -17,5 +17,5 @@ jobs:
           diff-search: true # Search for changes in the commit
 
       - name: hello-world
-        run: exho "Hello world"
+        run: exho "Hello world" 
         
